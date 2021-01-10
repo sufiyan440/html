@@ -2,8 +2,9 @@
 <html>
 <body>
 
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<p>I will display &Delta;</p>
+<p>I will display &#916;</p>
+<p>I will display &#x0394;</p>
 
 </body>
 </html>
